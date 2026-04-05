@@ -1,5 +1,5 @@
 const DEV_MODE = false; // change to false before deploy
-const birthday = new Date("April 5, 2026 14:37:00").getTime();
+const birthday = new Date("April 9, 2026 7:00:00").getTime();
 
 const message = `Ee roju ni birthday...one of the important day in your life.
 Its been nearly 390 days for our friendship
