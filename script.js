@@ -40,7 +40,30 @@ chala sarlu anipichindhi...ni closemates antha better kadhu nenu ani...sarle avi
 
 Party mukhyam bigiluu...(joke chesa le...party em vodhu...asale dieting chestuna..heheheh)
 
+Some important things...avi epdu chepakudadhu kani cheptunna...
+1. Don't think you are alone...naku evaru leru...
+nanu nene heal cheskovali ala anukomaka...memu vuntham...dont worry...
+2. Donor donor anthav....some times donor also needs to take not only giving..
+andari degara em vodhu...ni close people
+degara matramee tesko.
+3. Donor ki kindness ekkuva ani vinna anamata...chusa kudha...kani worthy people and things degara matrame
+kindness...
+4. Family is first....family matrame first...okay na remember.
+5. Don't loose interest on lively things...enjoy every moment.
+6. If any one sorry chepthee...sorry endhuku anadu..its okay anu.
+7. If any one thank you chepthee...naku endhuku anadu..no problem anu.
+(Because you deserve every sorry and every thank you which is for you)
+
+I know you faced so much , not every girl can withstand that... you are a
+STRONG WOMEN.
+Asala deni gurinchi ekkuva alochichadu....be calm...just go with the flow.
+
+Sorry...if it hurts you, idhi chepe day kadhu...kani epdu chepthe baga gurtu vuntadhi ani na thought anthe..
+
+Sorry if any of my actions ever hurt you.
+
 Inka cheptha vunthe chala vuntadhi...ee website saripodu...nenu final ga em chepdham anukunna anthe...
+
 
 Happy birthday Mahi 💖 !!!
 
@@ -49,7 +72,7 @@ jagratha ga karchu pethu(hahahah)
 
 
                                                                     Itlu - Loki ✨
-
+(Song baguntundhi full vinnu heheheh)
 `;
 
 const countdown = document.getElementById("countdown");
